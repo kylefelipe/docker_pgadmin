@@ -1,4 +1,4 @@
-# Subir novas instancias do PGADMIN sem perder as configurações
+# Atualiza/cria novos containers do PGADMIN sem perder as configurações
 
 ## Caso já exista um PgAdmin sem volume
 
